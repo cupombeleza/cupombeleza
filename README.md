@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💄 Bem-vindo ao repositório do Cupom Beleza!
 
-<!--
-**cupombeleza/cupombeleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O seu portal definitivo para economizar nas compras de cosméticos e perfumaria online. Nós fazemos a curadoria diária das melhores ofertas e testamos códigos promocionais para garantir que você pague menos nos seus produtos favoritos.
 
-Here are some ideas to get you started:
+### 🛍️ O que você encontra no nosso site:
+* **Maquiagem:** Bases, corretivos, paletas e batons das maiores marcas.
+* **Skincare:** Cuidados com a pele, hidratantes, séruns e protetores solares.
+* **Perfumes Importados:** As fragrâncias mais desejadas com descontos reais.
+* **Cabelos:** Tratamentos profissionais, shampoos, máscaras e finalizadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Acesse agora e garanta o seu desconto:
+👉 **[Visite o Site Oficial do Cupom Beleza](https://cupombeleza.com/)**
+
+---
+*Projeto focado em curadoria de ofertas e otimização de campanhas para o nicho de estética e economia.*
